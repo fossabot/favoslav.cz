@@ -1,6 +1,8 @@
 <h1 align="center">Source code for Favoslav's website, simple and modern page built using HTML, JavaScript, and Tailwind CSS.</h1>
 
 ## Features
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FmrFavoslav%2Ffavoslav.cz.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FmrFavoslav%2Ffavoslav.cz?ref=badge_shield)
+
 
 - Responsive design that works well on various devices and screen sizes.
 - Utilizes the power of Tailwind CSS for easy styling and customization.
@@ -41,6 +43,9 @@ To contribute to this project, please follow the [standard Git workflow](https:/
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FmrFavoslav%2Ffavoslav.cz.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FmrFavoslav%2Ffavoslav.cz?ref=badge_large)
 
 ## Acknowledgements
 
